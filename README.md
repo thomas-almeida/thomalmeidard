@@ -1,4 +1,4 @@
-### Alô?!, Bem vindo ao meu repositório!! 
+### Alô?!, Bem vindo aos meus repositório!! 
 
 - 🔭 Atualmente trabalhando como Frotn-End Dev
 - 🌱 Aprendendo e aperfeiçoando <b>PHP</b> & <b>JS</b>
