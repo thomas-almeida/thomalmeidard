@@ -1,6 +1,6 @@
 ### Alô?!, Bem vindo aos meus repositório!! 
 
-- 🔭 Atualmente trabalhando como Frotn-End Dev
+- 🔭 Atualmente trabalhando como Front-End Dev
 - 🌱 Aprendendo e aperfeiçoando <b>PHP</b> & <b>JS</b>
 - 📩 contato.thomasalmeidard@gmail.com
 
