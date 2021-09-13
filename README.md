@@ -1,4 +1,4 @@
-### Alô?!, Bem vindo aos meus repositório!! 
+### Alô?!, Bem vindos aos meus repositórios!! 
 
 - 🔭 Atualmente trabalhando como Front-End Dev
 - 🌱 Aprendendo e aperfeiçoando <b>PHP</b> & <b>JS</b>
