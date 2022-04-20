@@ -1,8 +1,7 @@
-### Alô?!, Bem vindos aos meus repositórios!! 
+### Eae bichos 
 
-- 🔭 Atualmente trabalhando como Front-End Dev
-- 🌱 Aprendendo e aperfeiçoando <b>PHP</b> & <b>JS</b>
-- 📩 contato.thomasalmeidard@gmail.com
+Front-End dev no Grupo Ideal Trends;
+📩 contato.thomasalmeidard@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
