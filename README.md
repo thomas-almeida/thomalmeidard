@@ -1,6 +1,4 @@
-### Eae bichos 
-
-Front-End dev no Grupo Ideal Trends;
+### Fã de Tecnologia, futuro empreendedor digital
 📩 contato.thomasalmeidard@gmail.com
 
 <div style="display: inline_block"><br>
