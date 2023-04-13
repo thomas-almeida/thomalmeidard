@@ -1,5 +1,7 @@
-### Fã de Tecnologia, futuro empreendedor digital
+### NOVO PROJETO: [ Crono: Investimentos exponenciais ]
 📩 contato.thomasalmeidard@gmail.com
+
+<a href="https://thomalmeidard.github.io/crono-invesitmentos-exponenciais/">Acesse o Site! 🚀</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
