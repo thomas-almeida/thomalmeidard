@@ -1,7 +1,7 @@
 ### NOVO PROJETO: <a href="https://thomalmeidard.github.io/crono-invesitmentos-exponenciais/">[ Crono: Investimentos exponenciais ] 🚀</a>
 
 📩 contato.thomasalmeidard@gmail.com
-
+📽️ <a href="https://www.youtube.com/channel/UCqT165WbDRz6EXI1SXF0BpA">Meu Canal do Youtube</a>
 
 
 <div style="display: inline_block"><br>
