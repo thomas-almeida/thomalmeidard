@@ -1,11 +1,10 @@
 ## Olá tudo bem!?, espero que sim!!
 
-### Sou um desenvolvedor Front-end que visa muito alcançar resultados ideais, desenvolver e entregar soluções e principalmente mudar minha vida para o próximo nível com meus projetos, atualmente estudo e trabalho com tecnologias web html, css, javascript, vueJs e ReactJs, já fui professor de tecnologia e amo juntar esses dois conhecimentos nas minhas experiências e projetos, se você está em busca de alguém com essas habilidades e conhecimentos seria um prazer conversar com você! um abraço.
-
+### Desenvolvedor Front-end que tem como principal objetivo alcançar resultados ideais, desenvolver e entregar soluções para mudar minha vida para o próximo nível com meus projetos. estudando e trabalhando com tecnologias web, incluindo HTML, CSS, JavaScript, VueJs e ReactJs. 
 📩 contato.thomasalmeidard@gmail.com
 📽️ <a href="https://www.youtube.com/channel/UCqT165WbDRz6EXI1SXF0BpA">Meu Canal do Youtube</a>
 
-
+<h3> Tenologias que afio meu machado 👇🏾:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://simpleicons.vercel.app/vercel/fff">
