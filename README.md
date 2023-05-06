@@ -1,4 +1,6 @@
-### NOVO PROJETO: <a href="https://thomalmeidard.github.io/expo-invesitmentos-exponenciais/">[ Expo: Investimentos exponenciais ] 🚀</a>
+## Olá tudo bem!?, espero que sim!!
+
+### Sou um desenvolvedor Front-end que visa muito alcançar resultados ideais, desenvolver e entregar soluções e principalmente mudar minha vida para o próximo nível com meus projetos, atualmente estudo e trabalho com tecnologias web html, css, javascript, vueJs e ReactJs, já fui professor de tecnologia e amo juntar esses dois conhecimentos nas minhas experiências e projetos, se você está em busca de alguém com essas habilidades e conhecimentos seria um prazer conversar com você! um abraço.
 
 📩 contato.thomasalmeidard@gmail.com
 📽️ <a href="https://www.youtube.com/channel/UCqT165WbDRz6EXI1SXF0BpA">Meu Canal do Youtube</a>
